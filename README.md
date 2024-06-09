@@ -1,7 +1,7 @@
 # ProyectoUNI
-Esto es un proyecto 
+Esto es mi primer proyecto con git
 
 
 Autor: Alisson Ortiz  
 
-Ingenieria de Software 3
+Ingenieria de Software III
