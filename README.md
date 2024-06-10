@@ -10,10 +10,7 @@ agregando lineas.
 
 #Documentacion Dev1
 
-<<<<<<< HEAD
-#agregando datos al Main.
-=======
 #Documeto editado desarrollador (dev1)
->>>>>>> dev1
+
 
 
