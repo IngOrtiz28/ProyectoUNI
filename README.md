@@ -8,9 +8,12 @@ Ingenieria de Software III
 
 agregando lineas.
 
-#Documentacion Dev1
+Arreglo de cambios 11-06-2024
 
-#Actualizacion desarrollador dev1 11/06/2024
+
+
+
+
 
 
 
